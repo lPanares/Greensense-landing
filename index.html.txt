@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GreenSense — Smart Insights for Small Greenhouse Farmers</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <h1>Smart Insights for Small Greenhouse Farmers</h1>
+      <p>Turn everyday sales and expenses into clear, actionable advice—so you can reduce waste, avoid costly mistakes, and grow more profitably.</p>
+      <a href="#" class="btn">Start Your Free Trial</a>
+    </div>
+  </section>
+
+  <!-- Problem -->
+  <section class="problem">
+    <div class="container">
+      <h2>Why Farmers Struggle Without Data</h2>
+      <div class="section-content">
+        <p>Small greenhouse farmers face real challenges:</p>
+        <ul>
+          <li><strong>Financial blind spots</strong> – Not knowing the true cost of each crop</li>
+          <li><strong>Wasted produce</strong> – Overplanting crops that don’t sell</li>
+          <li><strong>Cash flow issues</strong> – Unpredictable payments or supplier costs</li>
+          <li><strong>Poor planning</strong> – Guessing what to plant next season</li>
+        </ul>
+        <p>Without insights, even hard work can lead to losses.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Solution -->
+  <section class="solution">
+    <div class="container">
+      <h2>GreenSense: Your Farm’s Smart Assistant</h2>
+      <div class="section-content">
+        <p>GreenSense is a simple, intelligent platform that turns your daily transactions into smart farming advice—no spreadsheets, no accounting degree needed.</p>
+        <p>It answers the questions that matter:</p>
+        <ul>
+          <li>Which crops are actually profitable?</li>
+          <li>Where are you overspending?</li>
+          <li>Which customers or markets bring the most value?</li>
+        </ul>
+        <p>Built for small farms—affordable, actionable, and easy to use.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- How It Works -->
+  <section class="how-it-works">
+    <div class="container">
+      <h2>How GreenSense Works</h2>
+      <div class="steps">
+        <div class="step">
+          <h3>1. Track Transactions</h3>
+          <p>Log purchases and sales on your phone or computer.</p>
+        </div>
+        <div class="step">
+          <h3>2. AI Analysis</h3>
+          <p>GreenSense calculates profit per crop, costs, and trends.</p>
+        </div>
+        <div class="step">
+          <h3>3. Get Alerts</h3>
+          <p>Receive warnings about high costs or low-performing crops.</p>
+        </div>
+        <div class="step">
+          <h3>4. Easy Reports</h3>
+          <p>Clear charts and summaries—no confusing data.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Benefits -->
+  <section class="benefits">
+    <div class="container">
+      <h2>Benefits of GreenSense</h2>
+      <div class="section-content">
+        <ul>
+          <li> <strong>Save money</strong> – Know where every peso goes</li>
+          <li> <strong>Reduce waste</strong> – Avoid overplanting or unnecessary buys</li>
+          <li> <strong>Increase profits</strong> – Focus on your best-performing crops and markets</li>
+          <li><strong>Plan better</strong> – Use past data to predict future success</li>
+          <li> <strong>Peace of mind</strong> – Let GreenSense watch your numbers while you farm</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- Audience -->
+  <section class="audience">
+    <div class="container">
+      <h2>Who Is GreenSense For?</h2>
+      <div class="section-content">
+        <p>Perfect for:</p>
+        <ul>
+          <li>Small-scale greenhouse farmers (vegetables, herbs, mushrooms, berries)</li>
+          <li>Indoor or vertical farm operators</li>
+          <li>Farmers selling to local markets, restaurants, or subscription boxes</li>
+        </ul>
+        <p>Whether you farm in your backyard or run a small commercial operation—GreenSense grows with you.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Final CTA -->
+  <section class="cta">
+    <div class="container">
+      <h2>Grow Smarter, Not Harder</h2>
+      <p>Join hundreds of farmers saving money and reducing stress with GreenSense.</p>
+      <a href="#" class="btn">Get Started Today — Free for 14 Days</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 GreenSense | Smart Insights for Small Farms</p>
+      <p>
+        <a href="#">Contact Us</a> • 
+        <a href="#">Privacy Policy</a> • 
+        <a href="#">Facebook</a> • 
+        <a href="#">Instagram</a>
+      </p>
+    </div>
+  </footer>
+
+</body>
+</html>
